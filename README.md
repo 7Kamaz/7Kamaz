@@ -1,4 +1,4 @@
-# *Hello World! 🌐* 
+# Hello World! 🌐 
 # *Meu nome é Djair Martins.*
 
 <p align="left">
