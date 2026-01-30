@@ -28,7 +28,7 @@
 
 ---
 
-![Human Content](https://img.shields.io/badge/CONTENT-100%25_HUMAN_BY_Kamaz-blueviolet?style=for-the-badge&logo=human-rights-watch&logoColor=white)
+![Human Content](https://img.shields.io/badge/No_IA_CONTENT-100%25_HUMAN_BY_Kamaz-blueviolet?style=for-the-badge&logo=human-rights-watch&logoColor=white)
 
 ---
 
