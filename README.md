@@ -1,8 +1,11 @@
 # *Hello World! My name is Djair Martins.*
 
-[![TryHackMe](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5230186)](https://tryhackme.com/p/Kamaz)
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/5230186.png)](https://tryhackme.com/p/Kamaz)
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/5230186.png)
+<p align="left">
+  <a href="https://tryhackme.com/p/Kamaz">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Kamaz.png" alt="TryHackMe">
+  </a>
+</p>
+
 
 ### 🛠 Tecnologias e Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,kali,bash,powershell,py,golang,git,github,obsidian)](https://skillicons.dev)
