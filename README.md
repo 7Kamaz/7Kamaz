@@ -13,7 +13,7 @@
 
 ### 🤝 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/djair-martins)
-[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/@7Kamaz)
+[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1402786758260822198)
 
 ### 🌐 Idiomas
 ![Portuguese](https://img.shields.io/badge/PORTUGUESE-NATIVE-a4c639?style=for-the-badge&labelColor=555555)
