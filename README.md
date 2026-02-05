@@ -1,34 +1,30 @@
-# Hello World! 🌐 
-# *Meu nome é Djair Martins.*
+<!-- Tecnologias que você domina -->
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo" />
+</div>
 
-<p align="left">
-  <a href="https://tryhackme.com/p/Kamaz">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Kamaz.png?v=2" alt="TryHackMe">
-  </a>
-</p>
+<!-- GitHub stats essenciais -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=7Kamaz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7Kamaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+</div>
 
----
+<!-- Pacman contribution graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7Kamaz/7Kamaz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7Kamaz/7Kamaz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/7Kamaz/7Kamaz/output/pacman-contribution-graph.svg">
+</picture>
 
-### 🛠 Tecnologias e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,kali,bash,powershell,py,golang,git,github,obsidian)](https://skillicons.dev)
-
----
-
-### 🤝 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/djair-martins)
-[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1402786758260822198)
-[![TryHackMe](https://img.shields.io/badge/TRYHACKME-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Kamaz)
-
----
-
-### 🌐 Idiomas
-![Portuguese](https://img.shields.io/badge/PORTUGUESE-NATIVE-a4c639?style=for-the-badge&labelColor=555555)
-![English](https://img.shields.io/badge/ENGLISH-INTERMEDIARY-007acc?style=for-the-badge&labelColor=555555)
-![SPANISH](https://img.shields.io/badge/SPANISH-BEGINNER-007acc?style=for-the-badge&labelColor=555555)
-
----
-
-![Human Content](https://img.shields.io/badge/No_IA_CONTENT-100%25_HUMAN_BY_Kamaz-blueviolet?style=for-the-badge&logo=human-rights-watch&logoColor=white)
-
----
-
+<!-- Visitor badge -->
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=7Kamaz.7Kamaz" />
+</div>
