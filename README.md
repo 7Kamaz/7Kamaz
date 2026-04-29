@@ -2,8 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
-# Hello World! 🌐 
-# *Meu nome é Djair Martins.*
+# *Me chame de Kamaz! 🌐*
 
 <p align="left">
   <a href="https://tryhackme.com/p/Kamaz">
