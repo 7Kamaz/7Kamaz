@@ -31,7 +31,9 @@ jobs:
         run: |
           shot-scraper https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5230186 \
           -o assets/thm-dynamic-badge.png \
-          --width 330 --height 90 --wait 5000
+          --selector "#thm-badge" \
+          --padding 0 \
+          --wait 5000
 
       - name: Verify file existence
         run: ls -lh assets/thm-dynamic-badge.png
