@@ -2,37 +2,36 @@ name: Update THM Badge
  
 on:
   schedule:
-    - cron: '0 */12 * * *' # Roda a cada 12 horas automaticamente
-  workflow_dispatch: # Permite que você clique num botão para testar agora
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
 
 jobs:
   update-badge:
-    runs-on: ubuntu-latest
+    # Mudamos para 22.04 para evitar o erro de sandbox do Ubuntu 24.04
+    runs-on: ubuntu-22.04
     permissions:
-      contents: write # Dá permissão pro robô salvar a imagem no seu repo
+      contents: write
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      # CRUCIAL: Cria a pasta assets se ela não existir.
-      # Assim você não precisa criar nada manualmente no repo.
       - name: Create assets directory
         run: mkdir -p assets
 
       - name: Screenshot THM Badge
-        # Usando a action correta e estável
-        uses: JonathanTreffler/screenshot-action@v1.0
+        # Usando a versão correta da Action com suporte a no-sandbox
+        uses: flameddd/screenshots-ci-action@master
         with:
           url: https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5230186
-          width: 330 # Largura exata do widget
-          height: 90 # Altura exata do widget
-          wait_for: 7000 # Espera 7 segundos pro JS carregar fontes e ícones
           output: assets/thm-dynamic-badge.png
+          width: 330
+          height: 90
+          no_sandbox: true
+          wait_for: 8000 # 8 segundos para garantir o carregamento completo
 
-      - name: Commit and Push changes
+      - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/thm-dynamic-badge.png
-          # Só committa e pusha se a imagem realmente mudou (pra não sujar o histórico)
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update THM Dynamic Badge Image" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update THM Dynamic Badge" && git push)
