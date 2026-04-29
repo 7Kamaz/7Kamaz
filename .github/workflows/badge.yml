@@ -7,27 +7,34 @@ on:
 
 jobs:
   update-badge:
-    # Mudamos para 22.04 para evitar o erro de sandbox do Ubuntu 24.04
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest # Pode manter o 24.04, o shot-scraper lida bem
     permissions:
       contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install shot-scraper
+        run: |
+          pip install shot-scraper
+          shot-scraper install
+
       - name: Create assets directory
         run: mkdir -p assets
 
       - name: Screenshot THM Badge
-        # Usando a versão correta da Action com suporte a no-sandbox
-        uses: flameddd/screenshots-ci-action@master
-        with:
-          url: https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5230186
-          output: assets/thm-dynamic-badge.png
-          width: 330
-          height: 90
-          no_sandbox: true
-          wait_for: 8000 # 8 segundos para garantir o carregamento completo
+        run: |
+          shot-scraper https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5230186 \
+          -o assets/thm-dynamic-badge.png \
+          --width 330 --height 90 --wait 5000
+
+      - name: Verify file existence
+        run: ls -lh assets/thm-dynamic-badge.png
 
       - name: Commit and Push
         run: |
