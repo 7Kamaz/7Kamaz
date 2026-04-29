@@ -27,8 +27,7 @@
 ---
 
 ### 👨‍💻 Sobre mim
-Sou estudante de Cibersegurança e Desenvolvimento com foco em **Offensive Security** e **Red Team**. Busco entender a fundo o funcionamento dos sistemas operacionais, fugindo do modo "script kiddie" e buscando aprofundar em linguagens de baixo nível (C/C++/Assembly), internals de SO e reverse engineering.
-Mirando futuramente Red Team Operators & Exploit Developer
+Sou estudante de Cibersegurança e Desenvolvimento com foco em **Offensive Security,** **Red Team Operator &** **Exploit Developer**. Busco entender a fundo o funcionamento dos sistemas operacionais, fugindo do modo "script kiddie" e buscando me aprofundar em linguagens de baixo nível (C/C++/Assembly), internals de SO, reverse engineering, desenvolvimento de malware, exploit e criando minhas próprias ferramentas.
 
 - 🏆 **Certificado:** INE - eLearnSecurity Junior Penetration Tester (**INE - eJPTv2**).
 - 🎯 **Foco Atual:** Treinamento intensivo para a certificação **HackTheBox - CPTS**.
@@ -38,9 +37,9 @@ Mirando futuramente Red Team Operators & Exploit Developer
 ---
 
 ### 🚀 Projetos e Destaques
-- **KamazKrov v7.7:** Automação avançada em Python (FSM - Finite State Machine) e painel de controle web, com foco em arquitetura de código e OPSEC.
 - **[kamaz.dev.br](https://kamaz.dev.br):** Meu hub pessoal e portfólio. Lá concentro toda a minha documentação de laboratórios de cibersegurança e desenvolvimento de ferramentas.
-👾 **Malware:** Tenho "brincado" de criar um malware e aperfeiçoando ele para entender mais sobre Python, C e Windows Server.
+- 👾 **Malware:** Tenho "brincado" de criar um malware e aperfeiçoando ele para entender mais sobre Python, C e Windows Server.
+- **KamazKrov v7.7:** Automação avançada em Python (FSM - Finite State Machine) e painel de controle web, com foco em arquitetura de código e OPSEC.
 
 ---
 
@@ -101,4 +100,5 @@ Mirando futuramente Red Team Operators & Exploit Developer
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-# "[1] Elevo os olhos para os montes: de onde me virá o socorro? [2] O meu socorro vem do Senhor, que fez o céu e a terra." — Salmos 121</
+### "[1] Elevo os olhos para os montes: de onde me virá o socorro? 
+###  [2] O meu socorro vem do Senhor, que fez o céu e a terra." — Salmos 121
