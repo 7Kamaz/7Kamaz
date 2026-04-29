@@ -2,8 +2,8 @@ name: Update THM Badge
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # Atualiza a cada 12 horas
-  workflow_dispatch: # Permite rodar manualmente
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
 
 jobs:
   update-badge:
@@ -15,19 +15,18 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Screenshot THM Badge
-        uses: flameddd/screenshot-action@v1.4.2
+        uses: JonathanTreffler/screenshot-action@v1.0
         with:
           url: https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5230186
-          output: assets/thm-dynamic-badge.png
-          # Dimensões exatas do badge do THM para não sobrar espaço branco
-          width: 330 
+          width: 330
           height: 90
-          no_sandbox: true
-          wait_for: 5000 # 5 segundos para garantir que o JS e as fontes carreguem
+          # Espera 5 segundos para carregar o widget e as fontes
+          wait_for: 5000 
+          output: assets/thm-dynamic-badge.png
 
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/thm-dynamic-badge.png
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update THM Dynamic Badge Image" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update THM Badge" && git push)
