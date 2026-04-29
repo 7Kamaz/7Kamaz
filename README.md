@@ -12,10 +12,10 @@
 <br><br>
 
 <a href="https://kamaz.dev.br" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0D1117&text=KAMAZ.DEV.BR&fontSize=80&fontColor=00FF00&desc=Offensive%20Security%20%7C%20Kernel%20Research%20%7C%20Writeups&descSize=25&descAlignY=70&animation=twinkling" width="100%" alt="Kamaz Portfolio" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0D1117&text=KAMAZ.DEV.BR&fontSize=80&fontColor=00FF00&desc=Offensive%20Security%20%7C%20Kernel%20Research%20%7C%20Writeups&descSize=25&descAlignY=70&animation=twinkling" width="60%" alt="Kamaz Portfolio" />
 </a>
 
-<p><i>"O que eu não consigo criar, eu não entendo." — Richard Feynman</i></p>
+<p><i>"Se você só fizer o que sabe, nunca será mais do que é agora" - Mestre Shifu</i></p>
 
 <a href="https://kamaz.dev.br">
   <img src="https://img.shields.io/badge/ACESSAR_LAB_DOCUMENTATION-00FF00?style=for-the-badge&logo=googlesearchconsole&logoColor=black" />
@@ -27,18 +27,20 @@
 ---
 
 ### 👨‍💻 Sobre mim
-Sou estudante de Cibersegurança e desenvolvedor com foco em **Offensive Security** e **Red Team**. Busco entender a fundo o funcionamento dos sistemas, fugindo do modo "script kiddie" e mergulhando em programação de baixo nível (C/C++), internals de SO e reverse engineering.
+Sou estudante de Cibersegurança e Desenvolvimento com foco em **Offensive Security** e **Red Team**. Busco entender a fundo o funcionamento dos sistemas operacionais, fugindo do modo "script kiddie" e buscando aprofundar em linguagens de baixo nível (C/C++/Assembly), internals de SO e reverse engineering.
+Mirando futuramente Red Team Operators & Exploit Developer
 
-- 🎯 **Foco Atual:** Treinamento intensivo para a certificação **HTB CPTS**.
-- 🏆 **Certificações:** eLearnSecurity Junior Penetration Tester (**eJPTv2**).
-- 🔬 **Laboratório e Pesquisa:** Documento meus estudos, writeups de CTFs e arquitetura de laboratórios (integrando LLMs locais para privacidade) no meu portal.
-- 💻 **OS de Trabalho:** Especialista em ecossistemas Linux, operando primariamente em Parrot OS.
+- 🏆 **Certificado:** INE - eLearnSecurity Junior Penetration Tester (**INE - eJPTv2**).
+- 🎯 **Foco Atual:** Treinamento intensivo para a certificação **HackTheBox - CPTS**.
+- 🔬 **Laboratório e Pesquisa:** Documento meus estudos, writeups de CTFs e arquitetura de laboratórios/CTFs no meu portifólio.
+- 💻 **OS de Trabalho:** Experiência em ecossistemas Linux, operando primariamente em Parrot OS.
 
 ---
 
 ### 🚀 Projetos e Destaques
-- 👾 **KamazKrov v7.7:** Automação avançada em Python (FSM - Finite State Machine) e painel de controle web, com foco em arquitetura de código e OPSEC.
-- 📝 **[kamaz.dev.br](https://kamaz.dev.br):** Meu hub pessoal e portfólio. Lá concentro toda a minha documentação de laboratórios de cibersegurança e desenvolvimento de ferramentas.
+- **KamazKrov v7.7:** Automação avançada em Python (FSM - Finite State Machine) e painel de controle web, com foco em arquitetura de código e OPSEC.
+- **[kamaz.dev.br](https://kamaz.dev.br):** Meu hub pessoal e portfólio. Lá concentro toda a minha documentação de laboratórios de cibersegurança e desenvolvimento de ferramentas.
+👾 **Malware:** Tenho "brincado" de criar um malware e aperfeiçoando ele para entender mais sobre Python, C e Windows Server.
 
 ---
 
@@ -47,6 +49,7 @@ Sou estudante de Cibersegurança e desenvolvedor com foco em **Offensive Securit
 * **Daily Driver:** Parrot Security OS.
 * **Research:** Kernel Internals e ferramentas de Red Team (C/C++).
 * **OPSEC:** Workflow com LLMs locais (Ollama/Obsidian).
+* **Labs:** Laboratórios com EVE-NG
 
 ---
 
@@ -98,6 +101,4 @@ Sou estudante de Cibersegurança e desenvolvedor com foco em **Offensive Securit
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-<div align="right">
-  <sub><i>"[1] Elevo os olhos para os montes: de onde me virá o socorro? [2] O meu socorro vem do Senhor, que fez o céu e a terra." — Salmos 121</i></sub>
-</div>
+# "[1] Elevo os olhos para os montes: de onde me virá o socorro? [2] O meu socorro vem do Senhor, que fez o céu e a terra." — Salmos 121</
