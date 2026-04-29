@@ -8,6 +8,18 @@
 <img src="Jesus.gif" alt="Jesus" width="250"/>
 <br>
 <i>Salmos 121</i>
+
+<br><br>
+
+<a href="https://kamaz.dev.br" target="_blank">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0D1117&text=KAMAZ.DEV.BR&fontSize=80&fontColor=00FF00&desc=Offensive%20Security%20%7C%20Kernel%20Research%20%7C%20Writeups&descSize=25&descAlignY=70&animation=twinkling" width="100%" alt="Kamaz Portfolio" />
+</a>
+
+<p><i>"O que eu não consigo criar, eu não entendo." — Richard Feynman</i></p>
+
+<a href="https://kamaz.dev.br">
+  <img src="https://img.shields.io/badge/ACESSAR_LAB_DOCUMENTATION-00FF00?style=for-the-badge&logo=googlesearchconsole&logoColor=black" />
+</a>
 </div>
 
 <br>
@@ -25,49 +37,56 @@ Sou estudante de Cibersegurança e desenvolvedor com foco em **Offensive Securit
 ---
 
 ### 🚀 Projetos e Destaques
-- 👾 **KamazKrov:** Automação avançada baseada em Python (FSM - Finite State Machine) e painel de controle web, com foco em arquitetura de código e OPSEC.
+- 👾 **KamazKrov v7.7:** Automação avançada em Python (FSM - Finite State Machine) e painel de controle web, com foco em arquitetura de código e OPSEC.
 - 📝 **[kamaz.dev.br](https://kamaz.dev.br):** Meu hub pessoal e portfólio. Lá concentro toda a minha documentação de laboratórios de cibersegurança e desenvolvimento de ferramentas.
+
+---
+
+### 🛠️ The Stack & The Lab
+* **Main Rig:** Dell Inspiron 3583 | i7-8565U | 24GB RAM.
+* **Daily Driver:** Parrot Security OS.
+* **Research:** Kernel Internals e ferramentas de Red Team (C/C++).
+* **OPSEC:** Workflow com LLMs locais (Ollama/Obsidian).
 
 ---
 
 ### 🏆 Plataformas e Badges
 <div align="left">
-<a href="https://tryhackme.com/p/Kamaz">
-<img src="assets/thm-dynamic-badge.png" alt="TryHackMe Badge Dinâmico">
-</a>
-<br><br>
-<img src="https://img.shields.io/badge/eJPTv2-Certified-C0162A?style=for-the-badge&logo=linux&logoColor=white" alt="eJPTv2">
-<img src="https://img.shields.io/badge/CPTS-In_Progress-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111927" alt="CPTS Progress">
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://tryhackme.com/p/Kamaz" target="_blank">
+          <img src="assets/thm-dynamic-badge.png" style="border-radius: 12px;" width="330">
+        </a>
+      </td>
+      <td style="padding-left: 20px;">
+        <img src="https://img.shields.io/badge/eJPTv2-CERTIFIED-red?style=for-the-badge&logo=linux" /><br>
+        <img src="https://img.shields.io/badge/HTB_CPTS-IN_PROGRESS-9FEF00?style=for-the-badge&logo=hackthebox" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 ### 🛠 Tecnologias e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,kali,bash,powershell,py,golang,c,cpp,git,github,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,kali,bash,powershell,py,golang,c,cpp,git,github,obsidian,metasploit,burpsuite)](https://skillicons.dev)
 
 ---
 
+### 🧩 Activity
 <div align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7Kamaz/7Kamaz/output/pacman-contribution-graph-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7Kamaz/7Kamaz/output/pacman-contribution-graph.svg">
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/7Kamaz/7Kamaz/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7Kamaz/7Kamaz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7Kamaz/7Kamaz/output/pacman-contribution-graph.svg">
+  <img alt="pacman graph" src="https://raw.githubusercontent.com/7Kamaz/7Kamaz/output/pacman-contribution-graph.svg">
 </picture>
 </div>
 
 ---
 
 ### 🤝 Conecte-se comigo
-[![Website](https://img.shields.io/badge/PORTFOLIO-kamaz.dev.br-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kamaz.dev.br)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/djair-martins)
-[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1402786758260822198)
-
----
-
-### 🌐 Idiomas
-![Portuguese](https://img.shields.io/badge/PORTUGUESE-NATIVE-a4c639?style=for-the-badge&labelColor=555555)
-![English](https://img.shields.io/badge/ENGLISH-INTERMEDIARY-007acc?style=for-the-badge&labelColor=555555)
-![SPANISH](https://img.shields.io/badge/SPANISH-BEGINNER-007acc?style=for-the-badge&labelColor=555555)
+[**Website**](https://kamaz.dev.br) | [**LinkedIn**](https://linkedin.com/in/djair-martins) | [**Discord**](https://discord.com/users/1402786758260822198)
 
 ---
 
@@ -77,4 +96,8 @@ Sou estudante de Cibersegurança e desenvolvedor com foco em **Offensive Securit
 
 <div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+<div align="right">
+  <sub><i>"[1] Elevo os olhos para os montes: de onde me virá o socorro? [2] O meu socorro vem do Senhor, que fez o céu e a terra." — Salmos 121</i></sub>
 </div>
