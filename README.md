@@ -4,9 +4,17 @@
 
 # *Me chame de Kamaz! 🌐*
 
+<div align="center">
+  <img src="Jesus.gif" alt="Jesus" width="250"/>
+  <br>
+  <i>Salmos 121</i>
+</div>
+
+<br>
+
 <p align="left">
   <a href="https://tryhackme.com/p/Kamaz">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Kamaz.png?v=3" alt="TryHackMe">
+    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5230186" alt="TryHackMe Badge Dinâmico">
   </a>
 </p>
 
@@ -46,4 +54,3 @@
 <div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
-
